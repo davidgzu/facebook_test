@@ -23,4 +23,4 @@ class Usuario:
 		print(resultado)
 		return resultado
 
-	def borrarComentario(self,
+	def borrarComentario(self):
