@@ -10,3 +10,5 @@ respuesta = user.obtenerInformacion()
 
 message = input ("introduce tu mensaje: ")
 user.publicarComentario(message)
+
+print ("hice un cambio")
